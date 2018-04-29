@@ -1,0 +1,27 @@
+{
+  "name": "bedenke-website",
+  "version": "1.0.0",
+  "description": "Bedenke Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bedenke/website.git"
+  },
+  "keywords": [
+    "bedenke",
+    "website",
+    "example"
+  ],
+  "author": "Lucas Goraieb & Peter Laxalt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bedenke/website/issues"
+  },
+  "homepage": "https://github.com/Bedenke/website#readme",
+  "dependencies": {
+    "dank-web": "file:../dank-web"
+  }
+}
